@@ -2,7 +2,7 @@ Hello! I'm Jaqueline 👩🏻‍💻
 A passionate frontend engineer that loves code logic and UI design.
 
 
-⚡ Fun fact I love oldschool and 2D games, so I'am studying game development at Cruzeiro do Sul
+⚡ Fun fact I love oldschool and 2D games, so I'am studying game development at Prepara Cursos
 
 Connect with me:
 
