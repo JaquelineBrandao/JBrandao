@@ -1,6 +1,6 @@
-Hello! I'm Gabriela 👩🏻‍💻
+Hello! I'm Jaqueline 👩🏻‍💻
 A passionate frontend engineer that loves code logic and UI design.
-sprucegabriela
+
 
 ⚡ Fun fact I love oldschool and 2D games, so I'am studying game development at Cruzeiro do Sul
 
