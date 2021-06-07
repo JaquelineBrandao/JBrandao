@@ -2,7 +2,12 @@
     
 
 <h2>
-- 🔭 I’m currently working at Secretaria da ![Administação do Estado da Bahia](http://www.saeb.ba.gov.br/)
+- 🔭 I’m currently working at Secretaria da Administação do Estado da Bahia
+<p> </p>
+<p> </p>
+<p> </p>
+
+<a href="http://www.saeb.ba.gov.br/" target="blank"><img align="center" src="logo-secretaria.png" alt="SAEB" height=80%  /></a>
 
 </h2>
 
@@ -13,7 +18,7 @@
 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank"><img align="center" src="linkedin.svg" alt="Jaque.P.Brandao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank"><img align="center" src="linkedin.svg" alt="Jaque.P.Brandao" height="50" width="60" backgrou/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
