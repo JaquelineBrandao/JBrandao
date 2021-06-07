@@ -2,7 +2,7 @@
     
 
 <h2>
-- 🔭 I’m currently working at Secretaria da Administação do Estado da Bahia
+- 🔭 I’m currently working at 
 <p> </p>
 <p> </p>
 <p> </p>
