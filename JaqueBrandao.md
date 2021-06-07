@@ -1,12 +1,18 @@
-Hello! I'm Jaqueline 👩🏻‍💻
-A passionate frontend engineer that loves code logic and UI design.
+<h1 align="center">Hello! I'm Jaqueline 👩🏻‍💻<h1>  
 
 
-⚡ Fun fact I love oldschool and 2D games, so I'am studying game development at Prepara Cursos
+<h2>- 🔭 I’m currently working at Secretaria da Administação do Estado da Bahia</h2>
+
+<h3 align="left">A passionate frontend engineer that loves code logic and UI design.
+
+⚡ Fun fact I love oldschool and 2D games, so I'am studying game development at Prepara Cursos </h3>
 
 Connect with me:
 
-![linkedIn](https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/)
+<p align="left">
+<a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank">
+    <img align="center" src="linkedin.svg" alt="Jaque.P.Brandao" height="30" width="40" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
