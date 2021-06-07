@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Jaqueline 👩🏻‍💻 <h1>
     
 
-<h2>
+<h3>
 - 🔭 I’m currently working at 
 <p> </p>
 <p> </p>
@@ -9,7 +9,7 @@
 
 <a href="http://www.saeb.ba.gov.br/" target="blank"><img align="center" src="logo-secretaria.png" alt="SAEB" height=80%  /></a>
 
-</h2>
+</h3>
 
 <h3 align="left">A passionate frontend engineer that loves code logic and UI design.
 
