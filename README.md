@@ -11,11 +11,16 @@
 
 </h3>
 
-<h3 align="left">A passionate frontend engineer that loves code logic and UI design.
+<h3 align="left">A passionate frontend engineer that loves code logic and UI design.</h3> 
+    
 
-⚡ Fun fact I love oldschool and 2D games, so I'am studying game development at Prepara Cursos </h3>
-
-Connect with me:
+- ⚡ &nbsp; Fun fact I love oldschool and 2D games, so I'am studying game development at Prepara Cursos 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+    
+<h3 align="left"> Connect with me: </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank"><img align="center" src="linkedin.svg" alt="Jaque.P.Brandao" height="50" width="60" backgrou/></a>
@@ -43,7 +48,7 @@ Connect with me:
     </a> 
 </p>
 
-<h3 align="left">Other Languages Know:</h3>
+<h3 align="left">Other Languages and Tools Know:</h3>
    
 ![VSCoce](VSCode.svg) 
 ![python](python.svg) 
