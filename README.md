@@ -11,7 +11,7 @@
 
 </h3>
 
-<h3 align="left">A Full Stack Developer  software expert that loves code logic and UI design.</h3> 
+<h3 align="left">A DevOps | Full Stack Developer software expert that loves code logic and UI design.</h3> 
     
 
 - ⚡ &nbsp; Fun fact I love oldschool and 2D games, so I'am studying game development at Prepara Cursos 
