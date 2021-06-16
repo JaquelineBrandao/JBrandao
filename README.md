@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank"><img align="center" src="linkedin.svg" alt="Jaque.P.Brandao" height="50" width="60" backgrou/></a>
 
 
-<h3 align="left">Languages and Tools Prefence:</h3>
+<h3 align="left">Other Languages and Tools Know:</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -47,8 +47,6 @@
         <img src="power-bi.png" alt="powerbi" width="40" height="40"/> 
     </a> 
 </p>
-
-<h3 align="left">Other Languages and Tools Know:</h3>
    
 ![VSCoce](VSCode.svg) 
 ![python](python.svg) 
