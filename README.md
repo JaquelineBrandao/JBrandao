@@ -46,6 +46,9 @@
     <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> 
         <img src="power-bi.png" alt="powerbi" width="40" height="40"/> 
     </a> 
+    <a href="https://www.kaggle.com/" target="_blank"> 
+        <img src="kaggle.png" alt="kaggle" width="80" height="40"/> 
+    </a> 
 </p>
    
 ![VSCoce](VSCode.svg) 
