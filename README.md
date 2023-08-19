@@ -41,35 +41,35 @@
 <h3 align="left">Other Languages and Tools Know:</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+        <img src="imgs/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
-        <img src="git.svg" alt="git" width="40" height="40"/> 
+        <img src="imgs/git.svg" alt="git" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="imgs/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="javascript-original.svg" alt="javascript" width="40" height="40"/> 
+        <img src="imgs/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank"> 
-        <img src="linux-original.svg" alt="linux" width="40" height="40"/> 
+        <img src="imgs/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
     <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> 
-        <img src="power-bi.png" alt="powerbi" width="40" height="40"/> 
+        <img src="imgs/power-bi.png" alt="powerbi" width="40" height="40"/> 
     </a> 
     <a href="https://www.kaggle.com/" target="_blank"> 
-        <img src="kaggle.png" alt="kaggle" width="80" height="40"/> 
+        <img src="imgs/kaggle.png" alt="kaggle" width="80" height="40"/> 
     </a> 
 </p>
    
-![VSCoce](VSCode.svg) 
-![python](python.svg) 
-![MySQL](MySQL.svg) 
-![C](CeCplusplus.svg) 
-![GitHub](GitHub.svg) 
-![Heroku](Heroku.svg) 
-![Heroku](Java.svg)
+![VSCoce](imgs/VSCode.svg) 
+![python](imgs/python.svg) 
+![MySQL](imgs/MySQL.svg) 
+![C](imgs/CeCplusplus.svg) 
+![GitHub](imgs/GitHub.svg) 
+![Heroku](imgs/Heroku.svg) 
+![Heroku](imgs/Java.svg)
     
 </p>
     
