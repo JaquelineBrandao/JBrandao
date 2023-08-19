@@ -23,9 +23,21 @@
 <h3 align="left"> Connect with me: </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank"><img align="center" src="linkedin.svg" alt="Jaque.P.Brandao" height="50" width="60" backgrou/></a>
+<div>  
 
-
+    
+<a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/jaque.branda" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href="https://wwww.twitter.com/Jackielinebrand" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter" target="_blank">
+</a>
+<a href="https://steamcommunity.com/id/HoshinoJack/">
+    <img class="miniprofile_miniProfileBackgroundSteam" src="https://avatars.cloudflare.steamstatic.com/9edbd80ceb8195fd32d71751050f89b638fc1048.jpg">
+</a>
 <h3 align="left">Other Languages and Tools Know:</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
