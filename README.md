@@ -1,78 +1,65 @@
-<h1 align="center">Hello! I'm Jaqueline 👩🏻‍💻 <h1>
-    
+# Hello! I'm Jaqueline Brandão
 
-<h3>
+### About me:
+
 - 🔭 I’m currently working at SAEB - Secretaria da Administração do Estado da Bahia
-<p> </p>
-<p> </p>
-<p> </p>
 
-<a href="http://www.saeb.ba.gov.br/" target="blank"><img align="center" src="logo-secretaria.png" alt="SAEB" height=80%  /></a>
 
-</h3>
-
-<h3 align="left">A DevOps | Full Stack Developer software expert that loves code logic and UI design.</h3> 
-    
-
+A DevOps | Full Stack Developer software expert that loves code logic and UI design.
 - ⚡ &nbsp; Fun fact I love oldschool and 2D games, so I'am studying game development at Prepara Cursos 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-    
-<h3 align="left"> Connect with me: </h3>
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 
-<p align="left">
-<div>  
+### Contact:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaque.branda)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://www.twitter.com/Jackielinebrand)
+[![Steam](https://img.shields.io/badge/Steam-002?style=for-the-badge&logo=steam)](https://www.twitter.com/Jackielinebrand)
 
-    
-<a href="https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://www.instagram.com/jaque.branda" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://www.twitter.com/Jackielinebrand" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter" target="_blank">
-</a>
-<a href="https://steamcommunity.com/id/HoshinoJack/">
-    <img class="miniprofile_miniProfileBackgroundSteam" src="https://avatars.cloudflare.steamstatic.com/9edbd80ceb8195fd32d71751050f89b638fc1048.jpg">
-</a>
-<h3 align="left">Other Languages and Tools Know:</h3>
-<p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="imgs/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="imgs/git.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="imgs/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="imgs/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img src="imgs/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> 
-        <img src="imgs/power-bi.png" alt="powerbi" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.kaggle.com/" target="_blank"> 
-        <img src="imgs/kaggle.png" alt="kaggle" width="80" height="40"/> 
-    </a> 
-</p>
-   
-![VSCoce](imgs/VSCode.svg) 
-![python](imgs/python.svg) 
-![MySQL](imgs/MySQL.svg) 
-![C](imgs/CeCplusplus.svg) 
-![GitHub](imgs/GitHub.svg) 
-![Heroku](imgs/Heroku.svg) 
-![Heroku](imgs/Java.svg)
-    
-</p>
-    
+### Languages and Tools Know:
+![PowerBi](https://img.shields.io/badge/PowerBi-000?style=for-the-badge&logo=Powerbi)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MYsql)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+
+
+### Frameworks for Develop:
+![VSCoce](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudio) 
+![ArduinoIDE](https://img.shields.io/badge/ArduinoIDE-000?style=for-the-badge&logo=Arduino) 
+![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github) 
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) 
+![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku)
+![kaggle](https://img.shields.io/badge/kaggle-000?style=for-the-badge&logo=kaggle)
+
+### Frameworks for Develop games:
+![Construct](https://img.shields.io/badge/construct-000?style=for-the-badge&logo=construct-3)
+![Unity](https://img.shields.io/badge/unity-000?style=for-the-badge&logo=unity)
+![game-maker](https://img.shields.io/badge/GameMaker-000?style=for-the-badge&logo=gamemaker)
+
+
+### Animation / Modelling 2D/3D:
+![Blender](https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender) 
+![Maya](https://img.shields.io/badge/Maya-000?style=for-the-badge&logo=autodesk) 
+
+### Preferred operating systems:
+![Linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux)
+![Mint](https://img.shields.io/badge/Mint-000?style=for-the-badge&logo=linuxmint)
+![KaliLinux](https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux)
+![Windowns](https://img.shields.io/badge/Windowns-000?style=for-the-badge&logo=windows)
+
+
+###  Github Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaquelineBrandao&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JaquelineBrandao's Github Stats">
+</p>
+</p>
 
+### My contributions:
 [![JaquelineBrandao](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineBrandao&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/JaquelineBrandao/github-readme-stats)
+
