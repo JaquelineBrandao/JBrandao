@@ -56,10 +56,13 @@ A DevOps | Full Stack Developer software expert that loves code logic and UI des
 
 
 ###  Github Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaquelineBrandao&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JaquelineBrandao's Github Stats">
-</p>
-</p>
+![JaquelineBrandao's Stats](https://github-readme-stats.vercel.app/api?username=JaquelineBrandao&theme=dark&show_icons=true&hide_border=true&count_private=false)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JaquelineBrandao&theme=rising-sun&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ### My contributions:
-[![JaquelineBrandao](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineBrandao&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/JaquelineBrandao/github-readme-stats)
+[![JaquelineBrandao](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineBrandao&theme=bear&background=000&border=000&dates=FFF)](https://github.com/JaquelineBrandao/github-readme-stats)
+
+
+
 
